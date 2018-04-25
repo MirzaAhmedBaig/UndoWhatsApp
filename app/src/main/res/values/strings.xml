@@ -1,4 +1,4 @@
 <resources>
     <string name="app_name">UndoWhatsApp</string>
-    <string name="service_label">WhatsApp Notification</string>
+    <string name="service_label">UndoWA Access</string>
 </resources>
